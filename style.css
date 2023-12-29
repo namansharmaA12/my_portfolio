@@ -1099,6 +1099,7 @@ footer .wave#wave4
     .max-width{
         padding: 0 50px;
     }
+    
 }
 @media (max-width: 947px){
     .menu-btn{
@@ -1216,5 +1217,10 @@ footer .wave#wave4
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+}
+@media (max-width: 768px){
+    #media{
+        gap: 0 !important;
     }
 }
