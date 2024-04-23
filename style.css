@@ -38,6 +38,9 @@ section{
     padding: 0 80px;
     margin: auto;
 }
+ul#media li a {
+    color: #fff;
+}
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
@@ -923,7 +926,7 @@ footer
 {
     position: relative;
     width: 100%;
-    background: #3586ff;
+    background: #111111;
     min-height: 100px;
     padding: 20px 50px;
     display: flex;
@@ -1005,7 +1008,7 @@ footer p
 footer p a
 {
     text-decoration: none;
-    color: black;
+    color: #0780fd;
     font-size: 1em;
     transition: 0.5s ease-in-out;
 }
