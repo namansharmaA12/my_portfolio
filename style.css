@@ -98,6 +98,9 @@ section .title::after{
     align-items: center;
     justify-content: space-between;
 }
+.logo h1 {
+    font-size: 38px;
+}
 .navbar .logo a{
     color: #fff;
     font-size: 35px;
